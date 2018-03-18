@@ -1,0 +1,6 @@
+The entire data set can be found on:
+https://www.kaggle.com/nsharan/h-1b-visa/data
+
+The cleaned and files will be found at:
+https://drive.google.com/drive/folders/1omu1k8hAOYQ6dpkbGuOURRTy4cB6NVmb?usp=sharing
+(Since the data is large in size, the data file is divided into chunks of files which are taken as an input into the RDD dataframes.) 
